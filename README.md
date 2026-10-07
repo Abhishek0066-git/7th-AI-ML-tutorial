@@ -15,6 +15,7 @@ The exercises in `python practice` are organized by day and cover:
 | 5 | Dictionaries |
 | 6 | Loops, ranges, and number analysis |
 | 7 | Functions |
+| 8 | File handling |
 
 There are also introductory Python files in the `python` and `python Code with harry` folders.
 
@@ -33,7 +34,11 @@ There are also introductory Python files in the `python` and `python Code with h
     ├── day 4/
     ├── day 5/
     ├── day 6/
-    └── day 7/
+    ├── day 7/
+    └── day 8/
+        ├── file_handling.py
+        ├── file_mini_project.py
+        └── data.txt
 ```
 
 Each day contains small programs and, where available, a mini-project to practice the concepts.
